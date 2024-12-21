@@ -1,4 +1,4 @@
-# config-git
+# My Config Git
 
     [alias]
     	s = !git status -s
